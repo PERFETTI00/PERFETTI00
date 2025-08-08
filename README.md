@@ -10,19 +10,19 @@ Soy un estudiante recién graduado de administración de empresas y acabo de ter
 
 He realizado diferentes proyectos que me han ayudado a poner en práctica dichas habilidades y a día de hoy sigo trabajando con ello. Si quieres colaborar o si necesitas ayuda con algún proyecto, no dudes en contactar conmigo. ¡Estoy abierto a nuevas oportunidades y desafíos!
 
-## Proyectos
+## Proyectos 📂
 
 ### [**COVID-19 Colombia Analysis**](https://github.com/PERFETTI00/covid19-colombia-analysis)
-Análisis de los datos de la pandemia de COVID-19 en Colombia usando Python y herramientas de visualización de datos.
+📊 Análisis de los datos de la pandemia de COVID-19 en Colombia usando Python y herramientas de visualización de datos.
 
 ### [**Video Game Sales Prediction**](https://github.com/PERFETTI00/video-game-sales-prediction)
-Predicción de ventas de videojuegos utilizando técnicas de machine learning y análisis de datos históricos.
+📈 Predicción de ventas de videojuegos utilizando técnicas de machine learning y análisis de datos históricos.
 
 ### [**Streamlit Ramen Explorer**](https://github.com/PERFETTI00/streamlit-ramen-explorer)
-Una aplicación interactiva en Streamlit para explorar una base de datos de ramen y ver recomendaciones de acuerdo a las preferencias del usuario.
+🍜 Una aplicación interactiva en Streamlit para explorar una base de datos de ramen y ver recomendaciones de acuerdo a las preferencias del usuario.
 
 ### [**Stock AI**](https://github.com/PERFETTI00/Stockai)
-Un proyecto que automatiza pedidos a proveedores usando inteligencia artificial para predecir el punto de pedido y evitar roturas de stock.
+📋 Un proyecto que automatiza pedidos a proveedores usando inteligencia artificial para predecir el punto de pedido y evitar roturas de stock.
 
 ## Imágenes de mis proyectos
 <p align="center">
