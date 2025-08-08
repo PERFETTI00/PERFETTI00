@@ -1,5 +1,5 @@
 <p align="center">
-  <h1><strong>Hola! soy Miguel Ángel 🤝</strong></h1>
+  <h1><strong>**Hola! soy Miguel Ángel 🤝**</strong></h1>
 </p>
 
 <p align="center">
