@@ -1,5 +1,5 @@
 # ¡Hola, soy Miguel Ángel 👋
-![Portada]![Portada](https://github.com/tu_usuario/tu_repositorio/raw/main/ruta/a/la/imagen.jpg)
+[Portada](https://github.com/tu_usuario/tu_repositorio/raw/main/ruta/a/la/imagen.jpg)
 
 
 Soy un apasionado de la inteligencia artificial, automatizaciones, machine learning, NLP, y más. Actualmente estoy trabajando en proyectos que me permiten destacar mis habilidades y aprender cada día más. ¡Bienvenidos a mi perfil!
