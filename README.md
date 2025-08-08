@@ -24,13 +24,7 @@ He realizado diferentes proyectos que me han ayudado a poner en práctica dichas
 ### [**Stock AI**](https://github.com/PERFETTI00/Stockai)
 📋 Un proyecto que automatiza pedidos a proveedores usando inteligencia artificial para predecir el punto de pedido y evitar roturas de stock.
 
-## Imágenes de mis proyectos
-<p align="center">
-  ![Proyecto 1](https://github.com/PERFETTI00/Stock-AI/images/proyecto1.png)
-</p>
-<p align="center">
-  ![Proyecto 2](https://github.com/PERFETTI00/Automatizacion-Ventas/images/proyecto2.png)
-</p>
+  ![Imagen Proyectos](https://github.com/PERFETTI00/PERFETTI00/blob/main/ChatGPT%20Image%208%20ago%202025%2C%2020_26_52.png)
 
 ## Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/miguel-angel/)
